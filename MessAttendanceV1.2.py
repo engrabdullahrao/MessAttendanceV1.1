@@ -12,7 +12,7 @@ PRICES = {
     "Dinner": 448.20
 }
 TAX_RATE = 0.05
-SUBSIDY_RATE = 0.40
+SUBSIDY_RATE = 0.60
 
 # --- DATABASE SETUP ---
 def init_db():
